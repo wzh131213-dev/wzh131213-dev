@@ -13,3 +13,9 @@
 - md文件必须包含以YAML格式编写的Skill名称和描述zip或.skill文件必须包含SKILL.md文件
 - 下载成压缩包里不能有压缩包
 # 不想写的点这个链接 https://github.com/wzh131213-dev/Notreal/tree/claude
+
+# 二、打开Claude
+-这里用的是网页的
+![我的图片](./IMG_5212.jpeg)
+![我的图片](./IMG_5213.jpeg)
+![我的图片](./IMG_5214.jpeg)
