@@ -12,3 +12,4 @@
 - 写一个skill文件，通过它可以使AI使用Python代码输出视频媲美可以直接生成视频的AI
 - md文件必须包含以YAML格式编写的Skill名称和描述zip或.skill文件必须包含SKILL.md文件
 - 下载成压缩包里不能有压缩包
+不想写的
