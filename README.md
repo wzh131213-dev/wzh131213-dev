@@ -7,3 +7,4 @@
 ![我的图片](./IMG_5254.jpeg)
  提示词如下
 - 写一个skill文件，通过它可以使AI使用Python代码输出视频媲美可以直接生成视频的AI
+- md文件必须包含以YAML格式编写的Skill名称和描述zip或.skill文件必须包含SKILL.md文件
